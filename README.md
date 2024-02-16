@@ -86,3 +86,5 @@ To make the GUI have more entertainment, we use the cartoon figures from the mos
   <p>Bot1 finds and plugs the leak (FM)</p>
   <img src="extra/fm.jpeg" width="300" alt="Bot1 and Leak" />
 </div>
+背景故事：
+- 美羊羊在森林中迷路了，随时可能遇到灰太狼！舔狗沸羊羊立刻出发寻找迷路的美羊羊！
