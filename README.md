@@ -75,7 +75,7 @@ If the bot hears a beep, then the probability will be updated again
 ## GUI Representation of Bot, Leak, and plugging of leak
 To make the GUI have more entertainment, we use the cartoon figures from the most famous Chinese Cartoon 'Pleasant Goat and Big Big Wolf' released in 2005, to represent the bot and the leak, bringing back memories. 
 <div>
-  <p>Image of bot in the GUI(FYY)</p>
+  <p>Image of bot in the GUI</p>
   <img src="extra/fyy.jpeg" width="70" alt="Bot1" />
 </div>
 <div>
