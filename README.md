@@ -1,5 +1,9 @@
 # Spacecraft Leak Detection Simulation
 
+![Bot1 in a 50*50 sized ship](extras/440.png)
+![Bot5 in a 20*20 sized ship](extras/4402.png)
+
+
 ## Introduction
 
 Spacecraft Leak Detection Simulation project is designed to showcase a deep understanding of both deterministic and probabilistic algorithms, sensor data analysis, and the application of computer science principles to real-world problems.
