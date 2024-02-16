@@ -54,9 +54,13 @@ This proceeds until the leak is discovered.
 
 ### Bot3 in detail
 In this case, the detection is probabilistic - the bot has a sensor that, when activated, has a probability of giving a beep if the leak is nearby. The nearer the bot is to the leak, the more likely it is to receive a beep. Note that if the bot stays in place, it may receive a beep at some timesteps, and not at others (with the correct probability). If the bot is d-steps away from the leak (shortest path through the ship), the probability of receiving a beep is e^(−α(d−1)), for α > 0. Note that if the bot is immediately next to the leak, the probability of receiving a beep is 1.
+
 All cells (other than the bot’s initial cell) start with equal probability of containing the leak. Bot 3 proceeds in the following well:
+
 – At any time, the bot is going to move to the cell that has the highest probability of containing the leak (breaking ties first by distance from the bot, then at random).
-– After entering any cell, if the cell does not contain a leak, the bot will take the sense action. Based on the results, it updates the probability of containing the leak for each cell∗.
+
+– After entering any cell, if the cell does not contain a leak, the bot will take the sense action. Based on the results, it updates the probability of containing the leak for each cell.
+
 – After the beliefs are updated, this repeats, the bot proceeding to the cell that as the highest probability of containing the leak (breaking ties first by distance from the bot, then at random).
 
 ### Bot5 in detail
