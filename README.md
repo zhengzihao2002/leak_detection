@@ -2,6 +2,7 @@
 
 <!-- ![Bot1 in a 50*50 sized ship](extra/440.png) -->
 <!-- ![Bot5 in a 20*20 sized ship](extra/4402.png) -->
+## Project Images
 
 <div style="float: left; width: 400px;">
   <p>Bot1 in a 50*50 sized ship</p>
@@ -12,6 +13,7 @@
   <img src="extra/4402.png" width="400" />
 </div>
 <div style="clear: both;"></div>
+
 
 
 ## Introduction
@@ -68,3 +70,19 @@ In the eyes of Bot 9, the ship is made up of 4 sections
 At any time, the bot is going to move to the cell that is in the "highest beep section" (if all sections are equal then at random) that has the highest probability of containing the leak (breaking ties first by distance from the bot, then at random).
 After entering any cell, if the cell does not contain a leak, the bot will take the sense action. Based on the results, it updates the probability of containing the leak for each cell.
 If the bot hears a beep, then the probability will be updated again
+
+
+## GUI Representation of Bot, Leak, and plugging of leak
+To make the GUI have more entertainment, we use the cartoon figures from the most famous Chinese Cartoon 'Pleasant Goat and Big Big Wolf' released in 2005, bringing back memories. 
+<div>
+  <p>Bot1 (FYY)</p>
+  <img src="extra/fyy.jpeg" width="300" alt="Bot1" />
+</div>
+<div>
+  <p>Leak (MYY)</p>
+  <img src="extra/myy.jpeg" width="300" alt="Leak" />
+</div>
+<div>
+  <p>Bot1 finds and plugs the leak (FM)</p>
+  <img src="extra/fm.jpeg" width="300" alt="Bot1 and Leak" />
+</div>
