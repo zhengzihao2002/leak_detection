@@ -1,7 +1,7 @@
 # Spacecraft Leak Detection Simulation
 
-![Bot1 in a 50*50 sized ship](extras/440.png)
-![Bot5 in a 20*20 sized ship](extras/4402.png)
+![Bot1 in a 50*50 sized ship](extra/440.png)
+![Bot5 in a 20*20 sized ship](extra/4402.png)
 
 
 ## Introduction
