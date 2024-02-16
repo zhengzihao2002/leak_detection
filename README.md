@@ -45,8 +45,11 @@ All bots are AI integrated, meaning it will make unique decisions based on the g
 ### Bot1 in detail
  At every timestep, the bot can detect whether there is a leak in the vicinity of the bot (a boolean yes/no detection). For a given k ≥ 1, the bot sits at the center of a (2k + 1) × (2k + 1) square, and can detect whether or not a leak is present in that square. The bot can detect if it enters the square with the leak.
 The bot is initially placed randomly and the leak is initially placed in a random cell outside the detection square. When the bot enters a cell (or starts in a cell), however, if it is not the leak cell, it is marked as not containing the leak. If the bot detects no leak in proximity - all cells in the detection square are marked as not containing the leak. If the bot detects a leak in proximity - all cells in the detection square not already marked as not containing the leak are marked as possibly containing the leak, and all cells outside the detection square are marked as not containing the leak. Note that if a single square remains that is marked as containing the leak and all others do not contain the leak - the leak must be in that one marked cell. Bot 1 acts in the following way:
+
 - At any time that has not detected a leak, it will proceed to the nearest cell that might contain the leak (breaking ties at random), enter it, and take the sense action, updating what it knows based on the results.
+  
 - At any time that a leak has been detected, it will proceed to the nearest cell that might contain the leak, enter it, and in doing so either find the leak or rule that cell out.
+  
 This proceeds until the leak is discovered.
 
 ### Bot3 in detail
