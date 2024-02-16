@@ -1,4 +1,5 @@
-# Spacecraft Leak Detection Simulation (又名：舔羊阿沸寻找迷路的美羊羊)
+# Spacecraft Leak Detection Simulation 
+(又名：舔羊阿沸寻找迷路的美羊羊)
 
 <!-- ![Bot1 in a 50*50 sized ship](extra/440.png) -->
 <!-- ![Bot5 in a 20*20 sized ship](extra/4402.png) -->
