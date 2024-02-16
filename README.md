@@ -1,5 +1,5 @@
 # Spacecraft Leak Detection Simulation 
-Contributors: Zihao Zheng, Chongen Zheng, Yiming Huang
+**Contributors**: Zihao Zheng, Chongen Zheng, Yiming Huang
 
 Other names：舔羊阿沸寻找迷路的美羊羊
 
