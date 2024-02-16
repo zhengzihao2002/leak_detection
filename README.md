@@ -76,14 +76,14 @@ If the bot hears a beep, then the probability will be updated again
 To make the GUI have more entertainment, we use the cartoon figures from the most famous Chinese Cartoon 'Pleasant Goat and Big Big Wolf' released in 2005, to represent the bot and the leak, bringing back memories. 
 <div>
   <p>Image of bot in the GUI(FYY)</p>
-  <img src="extra/fyy.jpeg" width="300" alt="Bot1" />
+  <img src="extra/fyy.jpeg" width="70" alt="Bot1" />
 </div>
 <div>
   <p>Image representation of the leak in the GUI</p>
-  <img src="extra/myy.jpeg" width="300" alt="Leak" />
+  <img src="extra/myy.jpeg" width="70" alt="Leak" />
 </div>
 <div>
   <p>Bot finds and plugs the leak</p>
-  <img src="extra/fm.jpeg" width="300" alt="Bot1 and Leak" />
+  <img src="extra/fm.jpeg" width="70" alt="Bot1 and Leak" />
 </div>
 背景故事：美羊羊在森林中迷路了，随时可能遇到灰太狼！舔狗沸羊羊立刻出发寻找迷路的美羊羊！
