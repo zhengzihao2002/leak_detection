@@ -1,7 +1,14 @@
 # Spacecraft Leak Detection Simulation
 
-![Bot1 in a 50*50 sized ship](extra/440.png)
-![Bot5 in a 20*20 sized ship](extra/4402.png)
+<!-- ![Bot1 in a 50*50 sized ship](extra/440.png) -->
+<!-- ![Bot5 in a 20*20 sized ship](extra/4402.png) -->
+
+<p float="left">
+ <p>Bot1 in a 50*50 sized ship</p>
+ <p>Bot% in a 20*20 sized ship</p>
+  <img src="extra/440.png" width="400" />
+  <img src="extra/4402.png" width="400" /> 
+</p>
 
 
 ## Introduction
